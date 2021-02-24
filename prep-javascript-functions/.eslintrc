@@ -1,7 +1,6 @@
 {
   "rules": {
     "no-var": "off",
-    "no-console": "off",
-    "extends": "eslint:recommended"
+    "no-console": "off"
   }
 }

@@ -15,5 +15,3 @@ function personalizeGreeting(name) {
 }
 
 console.log(personalizeGreeting('Tim D'));
-
-
