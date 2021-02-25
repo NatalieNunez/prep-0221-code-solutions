@@ -45,3 +45,9 @@ function getFullName(firstName, lastName) {
 }
 
 console.log(getFullName('Natalie', 'Nunez'));
+
+function cube(number) {
+  return Math.pow(number, 3);
+}
+
+console.log(cube(10));
