@@ -33,3 +33,9 @@ function subtractTwoNumbers(num1, num2) {
 }
 
 console.log(subtractTwoNumbers(27, 10));
+
+function getCircleCircumference(radius) {
+  return 2 * 3.14 * radius;
+}
+
+console.log(getCircleCircumference(12));
