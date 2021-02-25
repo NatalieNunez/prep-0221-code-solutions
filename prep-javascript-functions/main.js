@@ -51,4 +51,3 @@ function cube(number) {
 }
 
 console.log(cube(10));
-console.log(cube(2));
