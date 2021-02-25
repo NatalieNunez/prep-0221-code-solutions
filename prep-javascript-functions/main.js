@@ -39,3 +39,9 @@ function getCircleCircumference(radius) {
 }
 
 console.log(getCircleCircumference(12));
+
+function getFullName(firstName, lastName) {
+  return `${firstName} ${lastName}`;
+}
+
+console.log(getFullName('Natalie', 'Nunez'));
